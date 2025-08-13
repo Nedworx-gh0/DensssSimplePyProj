@@ -1,1 +1,1 @@
-my first python project
+Python Beginner
